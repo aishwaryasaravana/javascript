@@ -1,0 +1,12 @@
+<html>
+<title>javascript</title>
+<body>
+<button onclick="myfunc()">click</button>
+<script>
+function myfunc()
+{
+alert("hello world");
+}
+</script>
+</body>
+</html>
