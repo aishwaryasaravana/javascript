@@ -1,0 +1,6 @@
+<html>
+<title>java location</title>
+<body>
+<button type="button" onclick="alert('welcome!')">click</button>
+</body>
+</html>
