@@ -1,0 +1,9 @@
+<html>
+<title>javascript</title>
+<head>javascript</head>
+<body>
+<script>
+document.write("<p>this is javascript</p>")
+</script>
+</body>
+</html>
